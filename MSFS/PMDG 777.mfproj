@@ -1,0 +1,283 @@
+{
+  "Name": "PMDG 777 - MSFS",
+  "ConfigFiles": [
+    {
+      "Label": "Bravo",
+      "FileName": null,
+      "ReferenceOnly": false,
+      "EmbedContent": true,
+      "ConfigItems": [
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_119_a) ! if{ 11901 (>K:ROTOR_BRAKE) }",
+              "PresetId": "4fbd7757-24d1-45ef-8f8f-2e0c8945596f"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_119_a) if{ 11901 (>K:ROTOR_BRAKE) }",
+              "PresetId": "9f9cd037-4a47-432b-82ec-f9483a2fc29d"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 37",
+          "GUID": "903fc7cd-08c3-4cf2-967d-d5106115d20f",
+          "Active": true,
+          "Name": "Runway Turnoff Left",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_120_a) ! if{ 12001 (>K:ROTOR_BRAKE) }",
+              "PresetId": "0849bb7a-f80d-48a2-9ca6-136bea7bf01f"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_120_a) if{ 12001 (>K:ROTOR_BRAKE) }",
+              "PresetId": "e49e04da-04f0-49bf-8437-1b44f2715ca6"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 37",
+          "GUID": "42e0901d-3273-4b53-bdc3-b32ef0a670ea",
+          "Active": true,
+          "Name": "Runway Turnoff Right",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_22_a) ! if{ 2201 (>K:ROTOR_BRAKE) }",
+              "PresetId": "321ea1d1-b955-424a-a3fa-027b133e53e5"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_22_a) if{ 2201 (>K:ROTOR_BRAKE) }",
+              "PresetId": "-"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "20e2f299-fadc-42b0-b530-013155a3a10d",
+          "Active": true,
+          "Name": "Landing Light Left",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_23_a) ! if{ 2301 (>K:ROTOR_BRAKE) }",
+              "PresetId": "96a03a73-7fe3-4219-b7a1-3450227a744a"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_23_a) if{ 2301 (>K:ROTOR_BRAKE) }",
+              "PresetId": "e5606b70-895d-41f6-bc63-5976d182d347"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "141970cf-c40b-43bf-a210-25f122e2cba1",
+          "Active": true,
+          "Name": "Landing Light Nose",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_24_a) ! if{ 2401 (>K:ROTOR_BRAKE) }",
+              "PresetId": "d86bd8c3-c113-412e-8486-4c9dd2aa806a"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_24_a) if{ 2401 (>K:ROTOR_BRAKE) }",
+              "PresetId": "fe4f8fc8-5046-47ac-ae6f-6e15e02ed29d"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "1766e956-de78-4f9e-90c5-bc92126d4e4c",
+          "Active": true,
+          "Name": "Landing Light Right",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_121_a) ! if{ 12101 (>K:ROTOR_BRAKE) }",
+              "PresetId": "ae2572c1-7b6c-4210-9fc5-66a651835752"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(L:switch_121_a) if{ 12101 (>K:ROTOR_BRAKE) }",
+              "PresetId": "-"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 39",
+          "GUID": "258fc250-4455-446f-9978-72a148eeb694",
+          "Active": true,
+          "Name": "Taxi Light",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        }
+      ]
+    }
+  ]
+}

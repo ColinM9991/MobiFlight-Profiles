@@ -1,0 +1,491 @@
+{
+  "Name": "unsaved",
+  "ConfigFiles": [
+    {
+      "FileName": null,
+      "ReferenceOnly": false,
+      "EmbedContent": true,
+      "ConfigItems": [
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 70637
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 2",
+          "GUID": "e6cabb03-c122-4b5c-8e02-d62c9a7d6322",
+          "Active": true,
+          "Name": "AP Disconnect",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Alpha Flight Controls / JS-273d59a0-65ed-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "",
+          "Value": "",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 70314
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 1",
+          "GUID": "c5d6114a-b780-4241-bc73-930aeff805be",
+          "Active": true,
+          "Name": "AT Disconnect",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Alpha Flight Controls / JS-273d59a0-65ed-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2",
+              "EventId": 69745
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "0",
+              "EventId": 69745
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "14bd865c-6e1e-467d-8c7e-f91860111a59",
+          "Active": true,
+          "Name": "Landing Light L",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2",
+              "EventId": 69746
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "0",
+              "EventId": 69746
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "5b0c5fa8-508a-4eda-892b-04963a7c644f",
+          "Active": true,
+          "Name": "Landing Light R",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2",
+              "EventId": 69743
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "0",
+              "EventId": 69743
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "76e1ca43-59e1-4462-b01d-5565a0ca81fd",
+          "Active": true,
+          "Name": "Landing Light Retractable L",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2",
+              "EventId": 69744
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "0",
+              "EventId": 69744
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "00e6834f-cef0-4ad7-868e-6411287026fc",
+          "Active": true,
+          "Name": "Landing Light Retractable R",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 69747
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2147483648",
+              "EventId": 69747
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 37",
+          "GUID": "0fde04af-91f2-4ec6-a363-6daeda69ca97",
+          "Active": true,
+          "Name": "Runway Turnoff L",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 69748
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2147483648",
+              "EventId": 69748
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 39",
+          "GUID": "faee7a94-4e6c-4a19-b137-96754765c60e",
+          "Active": true,
+          "Name": "Runway Turnoff R",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 69749
+            },
+            "onRelease": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "2147483648",
+              "EventId": 69749
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 41",
+          "GUID": "39022aea-4df6-404a-85b8-709348d8810a",
+          "Active": true,
+          "Name": "Taxi Lights",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 66079
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 31",
+          "GUID": "74d8371c-bbeb-4ea9-8b08-cfcf856555d5",
+          "Active": true,
+          "Name": "Gear Up",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "PmdgEventIdInputAction",
+              "Param": "536870912",
+              "EventId": 66080
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 32",
+          "GUID": "89cc3dc6-5dd4-4b6b-b69a-4bd5a623e35f",
+          "Active": true,
+          "Name": "Gear Down",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "Bravo Throttle Quadrant / JS-50d0c330-8157-11ed-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        }
+      ]
+    }
+  ]
+}
