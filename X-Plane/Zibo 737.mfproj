@@ -3300,6 +3300,45 @@
         {
           "Source": {
             "XplaneDataRef": {
+              "Path": "laminar/B738/electric/battery_pos"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "3e7a90a5-d20f-4c45-a42b-56a6ff4909ee",
+          "Active": true,
+          "Name": "Is Battery On",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
               "Path": "sim/cockpit2/autopilot/airspeed_is_mach"
             },
             "Type": "XplaneSource"
@@ -3378,7 +3417,7 @@
         {
           "Source": {
             "XplaneDataRef": {
-              "Path": "laminar/B738/annunciator/brightness_mcp_light"
+              "Path": "laminar/B738/electric/panel_brightness[0]"
             },
             "Type": "XplaneSource"
           },
@@ -3415,9 +3454,16 @@
               }
             ]
           },
-          "ConfigRefs": [],
-          "RawValue": "0.40000000596046448",
-          "Value": "40",
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "3e7a90a5-d20f-4c45-a42b-56a6ff4909ee",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "1",
+          "Value": "100",
           "Status": {}
         },
         {
@@ -3560,7 +3606,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "40",
+          "Value": "100",
           "Status": {}
         },
         {
@@ -3604,7 +3650,7 @@
             "Items": [
               {
                 "Type": "Transformation",
-                "Expression": "#",
+                "Expression": "if(!=1, if(#>40, #, 40), 0)",
                 "Active": true
               }
             ]
@@ -3615,10 +3661,16 @@
               "Ref": "c6864bb0-c910-41fe-a8e1-f2afadf56d8f",
               "Placeholder": "#",
               "TestValue": "1"
+            },
+            {
+              "Active": true,
+              "Ref": "3e7a90a5-d20f-4c45-a42b-56a6ff4909ee",
+              "Placeholder": "!",
+              "TestValue": "1"
             }
           ],
           "RawValue": "0",
-          "Value": "40",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3662,7 +3714,7 @@
             "Items": [
               {
                 "Type": "Transformation",
-                "Expression": "#",
+                "Expression": "if(#=1, 100, 0)",
                 "Active": true
               }
             ]
@@ -3670,13 +3722,13 @@
           "ConfigRefs": [
             {
               "Active": true,
-              "Ref": "c6864bb0-c910-41fe-a8e1-f2afadf56d8f",
+              "Ref": "3e7a90a5-d20f-4c45-a42b-56a6ff4909ee",
               "Placeholder": "#",
               "TestValue": "1"
             }
           ],
           "RawValue": "0",
-          "Value": "40",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3720,8 +3772,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "155",
-          "Value": "155",
+          "RawValue": "140",
+          "Value": "140",
           "Status": {}
         },
         {
@@ -3765,8 +3817,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "73",
-          "Value": "73",
+          "RawValue": "140",
+          "Value": "140",
           "Status": {}
         },
         {
@@ -3810,8 +3862,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "180",
-          "Value": "180",
+          "RawValue": "190",
+          "Value": "190",
           "Status": {}
         },
         {
@@ -3855,8 +3907,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "240",
-          "Value": "240",
+          "RawValue": "250",
+          "Value": "250",
           "Status": {
             "Precondition": "not satisfied"
           }
@@ -3902,8 +3954,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "240",
-          "Value": "240",
+          "RawValue": "250",
+          "Value": "250",
           "Status": {}
         },
         {
@@ -3947,8 +3999,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "29400",
-          "Value": "29400",
+          "RawValue": "27400",
+          "Value": "27400",
           "Status": {}
         },
         {
@@ -4429,8 +4481,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "0",
-          "Value": "0",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -6121,8 +6173,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "PRESS",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
