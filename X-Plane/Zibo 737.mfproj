@@ -2952,9 +2952,7 @@
           ],
           "RawValue": "",
           "Value": "",
-          "Status": {
-            "Precondition": "not satisfied"
-          }
+          "Status": {}
         },
         {
           "button": {
@@ -3334,8 +3332,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3373,8 +3371,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3418,8 +3416,8 @@
             ]
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0.40000000596046448",
+          "Value": "40",
           "Status": {}
         },
         {
@@ -3457,8 +3455,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3503,8 +3501,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3561,8 +3559,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "40",
           "Status": {}
         },
         {
@@ -3619,8 +3617,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "40",
           "Status": {}
         },
         {
@@ -3677,8 +3675,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "40",
           "Status": {}
         },
         {
@@ -3722,8 +3720,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "155",
+          "Value": "155",
           "Status": {}
         },
         {
@@ -3767,8 +3765,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "73",
+          "Value": "73",
           "Status": {}
         },
         {
@@ -3812,8 +3810,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "180",
+          "Value": "180",
           "Status": {}
         },
         {
@@ -3857,9 +3855,11 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "RawValue": "240",
+          "Value": "240",
+          "Status": {
+            "Precondition": "not satisfied"
+          }
         },
         {
           "Source": {
@@ -3902,8 +3902,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "240",
+          "Value": "240",
           "Status": {}
         },
         {
@@ -3947,8 +3947,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "29400",
+          "Value": "29400",
           "Status": {}
         },
         {
@@ -3992,8 +3992,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4037,8 +4037,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4082,8 +4082,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4140,8 +4140,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4199,8 +4199,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4245,8 +4245,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4291,8 +4291,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4337,8 +4337,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4383,8 +4383,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4429,8 +4429,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4475,8 +4475,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4521,8 +4521,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4567,8 +4567,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4613,8 +4613,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4659,8 +4659,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4705,8 +4705,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4751,8 +4751,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4797,8 +4797,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4843,8 +4843,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4889,8 +4889,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -4935,8 +4935,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -5150,8 +5150,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5197,8 +5197,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5239,8 +5239,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5281,8 +5281,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5407,8 +5407,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5449,8 +5449,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5491,8 +5491,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5533,8 +5533,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5575,8 +5575,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5617,8 +5617,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5659,8 +5659,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5701,8 +5701,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5743,8 +5743,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5785,8 +5785,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5911,8 +5911,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5953,8 +5953,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5995,8 +5995,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6037,8 +6037,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6079,8 +6079,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6121,8 +6121,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6163,8 +6163,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6289,8 +6289,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6336,8 +6336,218 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "MobiFlight/B738/BankAngle10",
+              "Expression": "$"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 34",
+          "GUID": "b43cb64f-4d50-4c4a-9980-3406dd98f46a",
+          "Active": true,
+          "Name": "Bank Angle 10",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "MobiFlight/B738/BankAngle15",
+              "Expression": "$"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "65bd0fb4-0e0b-4d89-97e0-ef5f3ea5a117",
+          "Active": true,
+          "Name": "Bank Angle 15",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "MobiFlight/B738/BankAngle20",
+              "Expression": "$"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 36",
+          "GUID": "68810e6e-dec1-4ca1-aa71-07953e7737b5",
+          "Active": true,
+          "Name": "Bank Angle 20",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "MobiFlight/B738/BankAngle25",
+              "Expression": "$"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 37",
+          "GUID": "2cb4b4ee-e072-451f-ab16-0b06673ec846",
+          "Active": true,
+          "Name": "Bank Angle 25",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "MobiFlight/B738/BankAngle30",
+              "Expression": "$"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 38",
+          "GUID": "c449e13a-7ebd-4433-850f-9603ca7a2a77",
+          "Active": true,
+          "Name": "Bank Angle 30",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         }
       ]
