@@ -20,32 +20,36 @@ if (PLANE_ICAO == "B738") then
 
     create_command("MobiFlight/B738/BankAngle10",
         "BankAngle10",
-        "AdjustBankAngle(0)",
+        "Adjust738BankAngle(0)",
         "",
         "")
     create_command("MobiFlight/B738/BankAngle15",
         "BankAngle15",
-        "AdjustBankAngle(1)",
+        "Adjust738BankAngle(1)",
         "",
         "")
     create_command("MobiFlight/B738/BankAngle20",
         "BankAngle20",
-        "AdjustBankAngle(2)",
+        "Adjust738BankAngle(2)",
         "",
         "")
     create_command("MobiFlight/B738/BankAngle25",
         "BankAngle25",
-        "AdjustBankAngle(3)",
+        "Adjust738BankAngle(3)",
         "",
         "")
     create_command("MobiFlight/B738/BankAngle30",
         "BankAngle30",
-        "AdjustBankAngle(4)",
+        "Adjust738BankAngle(4)",
         "",
         "")
 
     function Adjust738BankAngle(desiredPosition)
-        AdjustBankAngle(actualPosition, desiredPosition, 'laminar/B738/autopilot/bank_angle_up', 'laminar/B738/autopilot/bank_angle_dn')
+        AdjustBankAngle(
+            actualPosition,
+            desiredPosition,
+            'laminar/B738/autopilot/bank_angle_up',
+            'laminar/B738/autopilot/bank_angle_dn')
     end
 end
 
@@ -54,36 +58,40 @@ if (PLANE_ICAO == "B772") then
 
     create_command("MobiFlight/B777/BankAngleAuto",
         "BankAngleAuto",
-        "AdjustBankAngle(0)",
+        "Adjust777BankAngle(0)",
         "",
         "")
     create_command("MobiFlight/B777/BankAngle5",
         "BankAngle05",
-        "AdjustBankAngle(1)",
+        "Adjust777BankAngle(1)",
         "",
         "")
     create_command("MobiFlight/B777/BankAngle10",
         "BankAngle10",
-        "AdjustBankAngle(2)",
+        "Adjust777BankAngle(2)",
         "",
         "")
     create_command("MobiFlight/B777/BankAngle15",
         "BankAngle15",
-        "AdjustBankAngle(3)",
+        "Adjust777BankAngle(3)",
         "",
         "")
     create_command("MobiFlight/B777/BankAngle20",
         "BankAngle20",
-        "AdjustBankAngle(4)",
+        "Adjust777BankAngle(4)",
         "",
         "")
     create_command("MobiFlight/B777/BankAngle25",
         "BankAngle25",
-        "AdjustBankAngle(5)",
+        "Adjust777BankAngle(5)",
         "",
         "")
 
-    function Adjust738BankAngle(desiredPosition)
-        AdjustBankAngle(actualPosition, desiredPosition, '1-sim/command/mcpBankAngleSwitch_switch+', '1-sim/command/mcpBankAngleSwitch_switch-')
+    function Adjust777BankAngle(desiredPosition)
+        AdjustBankAngle(
+            actualPosition,
+            desiredPosition,
+            '1-sim/command/mcpBankAngleSwitch_switch+',
+            '1-sim/command/mcpBankAngleSwitch_switch-')
     end
 end
