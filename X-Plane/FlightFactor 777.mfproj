@@ -339,8 +339,8 @@
             ]
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -385,8 +385,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -431,8 +431,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -477,8 +477,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -523,8 +523,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -574,8 +574,8 @@
             ]
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0.074074074625968933",
+          "Value": "7",
           "Status": {}
         },
         {
@@ -632,8 +632,8 @@
               "TestValue": "true"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "270",
+          "Value": "100",
           "Status": {}
         },
         {
@@ -3626,6 +3626,2595 @@
           "ConfigRefs": [],
           "RawValue": "",
           "Value": "",
+          "Status": {}
+        }
+      ]
+    },
+    {
+      "Label": "WINWING PAP3",
+      "FileName": null,
+      "ReferenceOnly": false,
+      "EmbedContent": true,
+      "ConfigItems": [
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/isMachTrg"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "cf7d2a91-5425-4556-a808-4f7e7dd822f1",
+          "Active": true,
+          "Name": "Is Mach Enabled",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/isHdgTrg"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "a1fe5be8-0dd5-4437-a238-43444c3269e3",
+          "Active": true,
+          "Name": "Is Heading Enabled",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/isVsTrg"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "3fcc8b8c-5018-49d0-9e98-df8173882933",
+          "Active": true,
+          "Name": "Is V/S Enabled",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "MACH Label On/Off",
+            "Address": "MACH Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "MACH Label On/Off",
+          "GUID": "0d59c872-f03c-44d6-b3a8-e90dec20c938",
+          "Active": true,
+          "Name": "Mach Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "#",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "cf7d2a91-5425-4556-a808-4f7e7dd822f1",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "IAS Label On/Off",
+            "Address": "IAS Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "IAS Label On/Off",
+          "GUID": "b8562515-3d8e-4ab1-88d9-bc02a3ae8a60",
+          "Active": true,
+          "Name": "IAS Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "if(#==0, 1, 0)",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "cf7d2a91-5425-4556-a808-4f7e7dd822f1",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "HDG Label On/Off",
+            "Address": "HDG Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "HDG Label On/Off",
+          "GUID": "cddef411-dc7f-4906-b35c-277af676a221",
+          "Active": true,
+          "Name": "Heading Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "#",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "a1fe5be8-0dd5-4437-a238-43444c3269e3",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "TRK Label On/Off",
+            "Address": "TRK Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "TRK Label On/Off",
+          "GUID": "c2f1362b-e9c6-4bce-9aa2-7ab4338d3ca0",
+          "Active": true,
+          "Name": "Track Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "if(#==0, 1, 0)",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "a1fe5be8-0dd5-4437-a238-43444c3269e3",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "VS Label On/Off",
+            "Address": "VS Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "VS Label On/Off",
+          "GUID": "d46329a9-bd01-484b-bc69-8896084a6bf1",
+          "Active": true,
+          "Name": "V/S Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "#",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "3fcc8b8c-5018-49d0-9e98-df8173882933",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "FPA Label On/Off",
+            "Address": "FPA Label On/Off",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "FPA Label On/Off",
+          "GUID": "453b060d-4492-41ac-be5c-ec38d83dd27c",
+          "Active": true,
+          "Name": "FPA Label On/Off",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "if(#==0, 1, 0)",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "3fcc8b8c-5018-49d0-9e98-df8173882933",
+              "Placeholder": "#",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/spd"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "Speed Value",
+            "Address": "Speed Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "Speed Value",
+          "GUID": "e79bcda4-354c-4f01-878e-bb4f23269d9e",
+          "Active": true,
+          "Name": "IAS Value",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "cf7d2a91-5425-4556-a808-4f7e7dd822f1",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "230",
+          "Value": "230",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/spd"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "Mach Value",
+            "Address": "Mach Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "Mach Value",
+          "GUID": "93982e03-d23b-48a2-a884-5443e17df130",
+          "Active": true,
+          "Name": "Mach Value",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "cf7d2a91-5425-4556-a808-4f7e7dd822f1",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "1",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "230",
+          "Value": "230",
+          "Status": {
+            "Precondition": "not satisfied"
+          }
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/hdg"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "Heading Value",
+            "Address": "Heading Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "Heading Value",
+          "GUID": "3cc039cd-3c1c-42f4-bbda-439d1ea3ba8d",
+          "Active": true,
+          "Name": "Heading Value",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "173",
+          "Value": "173",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/alt"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "Altitude Value",
+            "Address": "Altitude Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "Altitude Value",
+          "GUID": "b0110680-3326-4530-bf64-be90c92d064d",
+          "Active": true,
+          "Name": "Altitude",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "10000",
+          "Value": "10000",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/vs"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "VS Value",
+            "Address": "VS Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "VS Value",
+          "GUID": "5c8a0b00-8dfc-49c9-9f05-4d0a694f5a8d",
+          "Active": true,
+          "Name": "V/S Value",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "3fcc8b8c-5018-49d0-9e98-df8173882933",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "1",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/output/mcp/vs"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "FPA Value",
+            "Address": "FPA Value",
+            "Lines": [],
+            "Type": "LcdDisplay"
+          },
+          "DeviceType": "LcdDisplay",
+          "DeviceName": "FPA Value",
+          "GUID": "8cde75bd-19e9-4294-9752-922ad76a20e6",
+          "Active": true,
+          "Name": "FPA Value",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "3fcc8b8c-5018-49d0-9e98-df8173882933",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {
+            "Precondition": "not satisfied"
+          }
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpVNAV"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "VNAV",
+            "DisplayPin": "VNAV",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "VNAV",
+          "GUID": "0cac7bf9-6ca6-4f61-93b1-365adf8f3858",
+          "Active": true,
+          "Name": "LED - VNAV",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpLNAV"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "LNAV",
+            "DisplayPin": "LNAV",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "LNAV",
+          "GUID": "9876db4d-5e87-4c3c-8e8e-36a6c41f11fd",
+          "Active": true,
+          "Name": "LED - LNAV",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpCaptAP"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "A_CMD",
+            "DisplayPin": "A_CMD",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "A_CMD",
+          "GUID": "9896e228-db54-4851-aff8-4d1401312645",
+          "Active": true,
+          "Name": "LED - AP Left",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpFoAP"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "B_CMD",
+            "DisplayPin": "B_CMD",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "B_CMD",
+          "GUID": "f3920fe5-0981-4e8c-8084-22e4469cbe69",
+          "Active": true,
+          "Name": "LED - AP Right",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpClbCon"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "N1",
+            "DisplayPin": "N1",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "N1",
+          "GUID": "e073dfb9-eada-4b55-95a5-206d856c6cbf",
+          "Active": false,
+          "Name": "LED - CLB CON",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpAT"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "SPEED",
+            "DisplayPin": "SPEED",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "SPEED",
+          "GUID": "af795eec-a079-4210-94b3-a963346834a4",
+          "Active": true,
+          "Name": "LED - Speed",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpFLCH"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "LVL_CHG",
+            "DisplayPin": "LVL_CHG",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "LVL_CHG",
+          "GUID": "d55f8f4b-b461-404c-9c00-d2da0ec37907",
+          "Active": true,
+          "Name": "LED - FLCH",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpHdgHOLD"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "HDG_SEL",
+            "DisplayPin": "HDG_SEL",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "HDG_SEL",
+          "GUID": "ca846b46-c942-4f5d-ab20-b2cfce6876c4",
+          "Active": true,
+          "Name": "LED - HDG HOLD",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpVS"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "VS",
+            "DisplayPin": "VS",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "VS",
+          "GUID": "0320d9da-cbe5-4824-acfb-ba32a3d8f4cb",
+          "Active": true,
+          "Name": "LED - VS/FPA",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpAltHOLD"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "ALT_HLD",
+            "DisplayPin": "ALT_HLD",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "ALT_HLD",
+          "GUID": "dff61a08-f20c-479e-b67c-af46a225cf7a",
+          "Active": true,
+          "Name": "LED - ALT HOLD",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpLOC"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "VOR_LOC",
+            "DisplayPin": "VOR_LOC",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "VOR_LOC",
+          "GUID": "5b50a8bc-7b76-4017-8da1-730010ac7150",
+          "Active": true,
+          "Name": "LED - LOC",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/lampsGlow/mcpAPP"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "APP",
+            "DisplayPin": "APP",
+            "DisplayPinBrightness": 255,
+            "DisplayPinPWM": false,
+            "Type": "Output"
+          },
+          "DeviceType": "Output",
+          "DeviceName": "APP",
+          "GUID": "82eef118-32f5-4782-887f-278aea9b7fe7",
+          "Active": true,
+          "Name": "LED - APP",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "0",
+          "Value": "0",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpApLButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 11",
+          "GUID": "6a79a0c1-dd17-4520-8ec9-80f2b22dd843",
+          "Active": true,
+          "Name": "A/P - Left",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpApRButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 13",
+          "GUID": "d08e2889-467d-4e6a-b568-cc5de5ec1b41",
+          "Active": true,
+          "Name": "A/P - Right",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpClbButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 1",
+          "GUID": "e7639447-3561-4d24-8df4-f2dab2dc88b8",
+          "Active": true,
+          "Name": "Button - CLB CON",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAtButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 2",
+          "GUID": "42b57917-d28a-4754-91f2-f401fa27f763",
+          "Active": true,
+          "Name": "Button - SPEED (A/T Mode)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpLnavButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 6",
+          "GUID": "3585400c-f968-419d-9c12-58cc54267ef3",
+          "Active": true,
+          "Name": "Button - LNAV",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpVnavButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 3",
+          "GUID": "e3021066-3720-4e2a-a019-00e7546b4ff5",
+          "Active": true,
+          "Name": "Button - VNAV",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpFlchButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 4",
+          "GUID": "5fd2c3a0-805e-4c13-b716-115d566cf6eb",
+          "Active": true,
+          "Name": "Button - FLCH",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpHdgHoldButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 5",
+          "GUID": "23f10306-7ad5-4c75-8ec1-ba79772323fc",
+          "Active": true,
+          "Name": "Button - HDG HOLD",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpVsButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 10",
+          "GUID": "2a054855-87a2-46e7-a776-b18dc1ffb352",
+          "Active": true,
+          "Name": "Button - VS",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAltHoldButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 9",
+          "GUID": "e874454d-4f6f-4f54-99b4-1cd4f3acbb97",
+          "Active": true,
+          "Name": "Button - ALT HOLD",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpLocButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 7",
+          "GUID": "221afc34-f993-43d6-b75f-565a380555d0",
+          "Active": true,
+          "Name": "Button - LOC",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAppButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 8",
+          "GUID": "b2510443-f645-41f7-ae7e-4f6689f7bd73",
+          "Active": true,
+          "Name": "Button - APP",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpSpdRotary_push",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 16",
+          "GUID": "c6d910ea-48bf-48c7-a4fa-11b512eab00e",
+          "Active": true,
+          "Name": "Button - Speed",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAltRotary_push",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 17",
+          "GUID": "7b0467a4-998a-4b45-a2c6-9c3b42d6b8a5",
+          "Active": true,
+          "Name": "Button - Altitude",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpIasMachButton_button",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 15",
+          "GUID": "7665ebaf-fedb-43fa-9a55-cd5cbc13d3ae",
+          "Active": true,
+          "Name": "Button - IAS/Mach",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpSpdRotary_rotary+",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 21",
+          "GUID": "05f1691b-d82f-4b36-9f16-8078172bfd46",
+          "Active": true,
+          "Name": "Rotary - Speed Increment",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "",
+          "Value": "",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpSpdRotary_rotary-",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 20",
+          "GUID": "56bc7647-d16b-4c91-8184-02ce04a357cb",
+          "Active": true,
+          "Name": "Rotary - Speed Decrement",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "",
+          "Value": "",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpHdgRotary_rotary+",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 23",
+          "GUID": "2e558d71-da14-4a07-83ac-9455de6b5c20",
+          "Active": true,
+          "Name": "Rotary - Heading Increment",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpHdgRotary_rotary-",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 22",
+          "GUID": "a93c1ae5-af51-4015-9cdf-3d4472898348",
+          "Active": true,
+          "Name": "Rotary - Heading Decrement",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAltRotary_rotary+",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 25",
+          "GUID": "fb41d60e-cb83-4a00-a2b9-a46f8ed156d4",
+          "Active": true,
+          "Name": "Rotary - Altitude Increment",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAltRotary_rotary-",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 24",
+          "GUID": "8bc78e34-eb8f-42cd-b2bc-99279c0b38fc",
+          "Active": true,
+          "Name": "Rotary - Altitude Decrement",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpVsRotary_rotary-",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 39",
+          "GUID": "e66dc962-ded2-4392-811b-6ac109571640",
+          "Active": true,
+          "Name": "Rotary - V/S Down",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "",
+          "Value": "",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpVsRotary_rotary+",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 40",
+          "GUID": "fecd4a06-85eb-4597-abe7-4af5685fbf76",
+          "Active": true,
+          "Name": "Rotary - V/S Up",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "",
+          "Value": "",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpFdLSwitch_trigger",
+              "Expression": ""
+            },
+            "onRelease": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpFdLSwitch_trigger",
+              "Expression": ""
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 28",
+          "GUID": "0c759d85-0045-4542-90fb-b0e677ccd932",
+          "Active": true,
+          "Name": "Switch - F/D Captain",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": "ad88d425-0b91-4d7c-831b-767815b93079",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpFdRSwitch_trigger",
+              "Expression": ""
+            },
+            "onRelease": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpFdRSwitch_trigger",
+              "Expression": ""
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 30",
+          "GUID": "9eccd4f5-f218-4f9d-964f-a0dc046f3560",
+          "Active": true,
+          "Name": "Switch - F/D First Officer",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": "3cde64ff-47f6-4a58-9ff1-96052fbebb85",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "PRESS",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAtSwitchL_trigger",
+              "Expression": ""
+            },
+            "onRelease": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAtSwitchL_trigger",
+              "Expression": ""
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 41",
+          "GUID": "52d4a368-86f7-4bd1-ad78-c41b056dd733",
+          "Active": true,
+          "Name": "Switch - A/T Arm L",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "1-sim/command/mcpAtSwitchR_trigger",
+              "Expression": ""
+            },
+            "onRelease": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "1-sim/command/mcpAtSwitchR_trigger",
+              "Expression": ""
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 41",
+          "GUID": "95189e2f-3b51-4bb3-87d7-dc118fff2562",
+          "Active": true,
+          "Name": "Switch - A/T Arm R",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "RELEASE",
+          "Value": " ",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/mcpAtSwitchL/anim"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "6bbb742c-063d-464c-a925-8dfbaa2cb4a7",
+          "Active": true,
+          "Name": "Status - A/T Switch L",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": "1-sim/ckpt/mcpAtSwitchR/anim"
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "6ff3957f-c300-49cb-9a21-6474e3d05af7",
+          "Active": true,
+          "Name": "Status - A/T Switch R",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": []
+          },
+          "ConfigRefs": [],
+          "RawValue": "1",
+          "Value": "1",
+          "Status": {}
+        },
+        {
+          "Source": {
+            "XplaneDataRef": {
+              "Path": ""
+            },
+            "Type": "XplaneSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "DeviceType": "-",
+          "DeviceName": null,
+          "GUID": "3c36efc8-19aa-4a6e-ae36-957cf819fbd3",
+          "Active": true,
+          "Name": "Status - A/T Armed",
+          "Type": "OutputConfigItem",
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+          "Preconditions": [
+            {
+              "PreconditionType": "none",
+              "PreconditionRef": null,
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": null,
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
+            }
+          ],
+          "Modifiers": {
+            "Items": [
+              {
+                "Type": "Transformation",
+                "Expression": "if(#==!&&#==1,1,0)",
+                "Active": true
+              }
+            ]
+          },
+          "ConfigRefs": [
+            {
+              "Active": true,
+              "Ref": "6ff3957f-c300-49cb-9a21-6474e3d05af7",
+              "Placeholder": "#",
+              "TestValue": "1"
+            },
+            {
+              "Active": true,
+              "Ref": "6bbb742c-063d-464c-a925-8dfbaa2cb4a7",
+              "Placeholder": "!",
+              "TestValue": "1"
+            }
+          ],
+          "RawValue": "0",
+          "Value": "1",
           "Status": {}
         }
       ]
