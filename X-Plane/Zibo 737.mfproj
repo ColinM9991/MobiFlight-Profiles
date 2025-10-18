@@ -255,8 +255,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -633,8 +633,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -675,8 +675,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -759,8 +759,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -801,8 +801,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -927,8 +927,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -1221,8 +1221,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -1305,8 +1305,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -1431,8 +1431,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -1473,8 +1473,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -1515,8 +1515,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -1935,8 +1935,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -2019,8 +2019,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -2145,8 +2145,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -2523,8 +2523,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -2817,8 +2817,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -2859,8 +2859,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
+          "RawValue": "",
+          "Value": "",
           "Status": {}
         },
         {
@@ -2952,9 +2952,7 @@
           ],
           "RawValue": "",
           "Value": "",
-          "Status": {
-            "Precondition": "not satisfied"
-          }
+          "Status": {}
         },
         {
           "button": {
@@ -3093,8 +3091,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "0",
-          "Value": "0",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -3334,8 +3332,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3373,8 +3371,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -3412,8 +3410,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3451,8 +3449,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3503,8 +3501,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3542,8 +3540,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3588,8 +3586,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -3646,8 +3644,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -3710,8 +3708,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "40",
           "Status": {}
         },
         {
@@ -3768,8 +3766,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "100",
           "Status": {}
         },
         {
@@ -3813,8 +3811,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "173",
+          "Value": "173",
           "Status": {}
         },
         {
@@ -3858,8 +3856,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "173",
+          "Value": "173",
           "Status": {}
         },
         {
@@ -3903,8 +3901,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "256",
+          "Value": "256",
           "Status": {}
         },
         {
@@ -3961,14 +3959,14 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
           "Source": {
             "XplaneDataRef": {
-              "Path": "sim/cockpit2/autopilot/airspeed_dial_kts_mach"
+              "Path": "laminar/B738/autopilot/mcp_speed_dial_kts_mach"
             },
             "Type": "XplaneSource"
           },
@@ -4000,36 +3998,28 @@
               "PreconditionValue": "1",
               "PreconditionLogic": "and",
               "PreconditionActive": true
-            },
-            {
-              "PreconditionType": "config",
-              "PreconditionRef": "3aa52a7b-018a-4d7d-81a7-ebd8704bc6d1",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
             }
           ],
           "Modifiers": {
             "Items": [
               {
                 "Type": "Transformation",
-                "Expression": "Round($, 0)",
+                "Expression": "Round($, 2)",
                 "Active": true
               }
             ]
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "RawValue": "240",
+          "Value": "240",
+          "Status": {
+            "Precondition": "not satisfied"
+          }
         },
         {
           "Source": {
             "XplaneDataRef": {
-              "Path": "sim/cockpit2/autopilot/airspeed_dial_kts_mach"
+              "Path": "laminar/B738/autopilot/mcp_speed_dial_kts"
             },
             "Type": "XplaneSource"
           },
@@ -4061,16 +4051,6 @@
               "PreconditionValue": "0",
               "PreconditionLogic": "and",
               "PreconditionActive": true
-            },
-            {
-              "PreconditionType": "config",
-              "PreconditionRef": "3aa52a7b-018a-4d7d-81a7-ebd8704bc6d1",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
             }
           ],
           "Modifiers": {
@@ -4083,8 +4063,8 @@
             ]
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "240",
+          "Value": "240",
           "Status": {}
         },
         {
@@ -4128,8 +4108,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "35000",
+          "Value": "35000",
           "Status": {}
         },
         {
@@ -4173,8 +4153,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4212,14 +4192,24 @@
               "PreconditionValue": "0",
               "PreconditionLogic": "and",
               "PreconditionActive": true
+            },
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
             }
           ],
           "Modifiers": {
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4257,14 +4247,24 @@
               "PreconditionValue": "0",
               "PreconditionLogic": "and",
               "PreconditionActive": true
+            },
+            {
+              "PreconditionType": "config",
+              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "PreconditionSerial": null,
+              "PreconditionPin": null,
+              "PreconditionOperand": "=",
+              "PreconditionValue": "0",
+              "PreconditionLogic": "and",
+              "PreconditionActive": true
             }
           ],
           "Modifiers": {
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4321,8 +4321,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4380,8 +4380,8 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -4426,8 +4426,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4472,8 +4472,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4518,8 +4518,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -4564,8 +4564,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4610,8 +4610,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4656,8 +4656,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -4702,8 +4702,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4748,8 +4748,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4794,8 +4794,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4840,8 +4840,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4886,8 +4886,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4932,8 +4932,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -4978,8 +4978,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -5024,8 +5024,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -5070,8 +5070,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "1",
+          "Value": "1",
           "Status": {}
         },
         {
@@ -5116,8 +5116,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "0",
+          "Value": "0",
           "Status": {}
         },
         {
@@ -5331,8 +5331,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5378,8 +5378,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5420,8 +5420,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5462,8 +5462,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5504,8 +5504,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5546,8 +5546,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5588,8 +5588,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5630,8 +5630,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5672,8 +5672,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5714,8 +5714,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5756,8 +5756,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5798,8 +5798,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5840,8 +5840,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5882,8 +5882,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5924,8 +5924,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -5966,8 +5966,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6092,8 +6092,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6134,8 +6134,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6176,8 +6176,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6218,8 +6218,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6260,8 +6260,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6302,8 +6302,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6344,8 +6344,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6386,8 +6386,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6470,8 +6470,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6517,8 +6517,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6559,8 +6559,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6601,8 +6601,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6643,8 +6643,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6685,8 +6685,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "RELEASE",
+          "Value": " ",
           "Status": {}
         },
         {
@@ -6727,8 +6727,8 @@
             "Items": []
           },
           "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
+          "RawValue": "PRESS",
+          "Value": " ",
           "Status": {}
         }
       ]
