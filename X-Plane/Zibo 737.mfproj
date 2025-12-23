@@ -28,26 +28,7 @@
           "Active": true,
           "Name": "Capt FMC - 1L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -70,26 +51,7 @@
           "Active": true,
           "Name": "Capt FMC - 2L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -112,26 +74,7 @@
           "Active": true,
           "Name": "Capt FMC - 3L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -154,26 +97,7 @@
           "Active": true,
           "Name": "Capt FMC - 4L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -196,26 +120,7 @@
           "Active": true,
           "Name": "Capt FMC - 5L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -238,26 +143,7 @@
           "Active": true,
           "Name": "Capt FMC - 6L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -280,26 +166,7 @@
           "Active": true,
           "Name": "Capt FMC - 1R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -322,26 +189,7 @@
           "Active": true,
           "Name": "Capt FMC - 2R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -364,26 +212,7 @@
           "Active": true,
           "Name": "Capt FMC - 3R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -406,26 +235,7 @@
           "Active": true,
           "Name": "Capt FMC - 4R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -448,26 +258,7 @@
           "Active": true,
           "Name": "Capt FMC - 5R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -490,26 +281,7 @@
           "Active": true,
           "Name": "Capt FMC - 6R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -532,26 +304,7 @@
           "Active": true,
           "Name": "INIT REF",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -574,26 +327,7 @@
           "Active": true,
           "Name": "RTE",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -616,26 +350,7 @@
           "Active": true,
           "Name": "CLB",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -658,26 +373,7 @@
           "Active": true,
           "Name": "CRZ",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -700,26 +396,7 @@
           "Active": true,
           "Name": "DES",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -742,26 +419,7 @@
           "Active": true,
           "Name": "MENU",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -784,26 +442,7 @@
           "Active": true,
           "Name": "LEGS",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -826,26 +465,7 @@
           "Active": true,
           "Name": "DEP/ARR",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -868,26 +488,7 @@
           "Active": true,
           "Name": "HOLD",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -910,26 +511,7 @@
           "Active": true,
           "Name": "PROG",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -952,26 +534,7 @@
           "Active": true,
           "Name": "N1 Limit",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -994,26 +557,7 @@
           "Active": true,
           "Name": "FIX",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1036,26 +580,7 @@
           "Active": true,
           "Name": "PREV PAGE",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1078,26 +603,7 @@
           "Active": true,
           "Name": "NEXT PAGE",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1120,26 +626,7 @@
           "Active": true,
           "Name": "EXEC",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1162,26 +649,7 @@
           "Active": true,
           "Name": "Key 1",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1204,26 +672,7 @@
           "Active": true,
           "Name": "Key 2",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1246,26 +695,7 @@
           "Active": true,
           "Name": "Key 3",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1288,26 +718,7 @@
           "Active": true,
           "Name": "Key 4",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1330,26 +741,7 @@
           "Active": true,
           "Name": "Key 5",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1372,26 +764,7 @@
           "Active": true,
           "Name": "Key 6",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1414,26 +787,7 @@
           "Active": true,
           "Name": "Key 7",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1456,26 +810,7 @@
           "Active": true,
           "Name": "Key 8",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1498,26 +833,7 @@
           "Active": true,
           "Name": "Key 9",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1540,26 +856,7 @@
           "Active": true,
           "Name": "Key 0",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1582,26 +879,7 @@
           "Active": true,
           "Name": "Key A",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1624,26 +902,7 @@
           "Active": true,
           "Name": "Key B",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1666,26 +925,7 @@
           "Active": true,
           "Name": "Key C",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1708,26 +948,7 @@
           "Active": true,
           "Name": "Key D",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1750,26 +971,7 @@
           "Active": true,
           "Name": "Key E",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1792,26 +994,7 @@
           "Active": true,
           "Name": "Key F",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1834,26 +1017,7 @@
           "Active": true,
           "Name": "Key G",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1876,26 +1040,7 @@
           "Active": true,
           "Name": "Key H",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1918,26 +1063,7 @@
           "Active": true,
           "Name": "Key I",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -1960,26 +1086,7 @@
           "Active": true,
           "Name": "Key J",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2002,26 +1109,7 @@
           "Active": true,
           "Name": "Key K",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2044,26 +1132,7 @@
           "Active": true,
           "Name": "Key L",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2086,26 +1155,7 @@
           "Active": true,
           "Name": "Key M",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2128,26 +1178,7 @@
           "Active": true,
           "Name": "Key N",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2170,26 +1201,7 @@
           "Active": true,
           "Name": "Key O",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2212,26 +1224,7 @@
           "Active": true,
           "Name": "Key P",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2254,26 +1247,7 @@
           "Active": true,
           "Name": "Key Q",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2296,26 +1270,7 @@
           "Active": true,
           "Name": "Key R",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2338,26 +1293,7 @@
           "Active": true,
           "Name": "Key S",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2380,26 +1316,7 @@
           "Active": true,
           "Name": "Key T",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2422,26 +1339,7 @@
           "Active": true,
           "Name": "Key U",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2464,26 +1362,7 @@
           "Active": true,
           "Name": "Key V",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2506,26 +1385,7 @@
           "Active": true,
           "Name": "Key W",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2548,26 +1408,7 @@
           "Active": true,
           "Name": "Key X",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2590,26 +1431,7 @@
           "Active": true,
           "Name": "Key Y",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2632,26 +1454,7 @@
           "Active": true,
           "Name": "Key Z",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2674,26 +1477,7 @@
           "Active": true,
           "Name": "Key SP",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2716,26 +1500,7 @@
           "Active": true,
           "Name": "Key DEL",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2758,26 +1523,7 @@
           "Active": true,
           "Name": "Key /",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2800,26 +1546,7 @@
           "Active": true,
           "Name": "Key CLR",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2842,26 +1569,7 @@
           "Active": true,
           "Name": "Key Period",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2884,26 +1592,7 @@
           "Active": true,
           "Name": "Key Plus/Minus",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -2929,19 +1618,16 @@
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "2ef8553c-439e-462b-b638-ae18ed500009",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "<",
-              "PreconditionValue": "100",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "2ef8553c-439e-462b-b638-ae18ed500009",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "<",
+              "Value": "100",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
           "ConfigRefs": [
             {
               "Active": true,
@@ -2950,9 +1636,9 @@
               "TestValue": "1"
             }
           ],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "Status": {
+            "Precondition": "not satisfied"
+          }
         },
         {
           "button": {
@@ -2978,19 +1664,16 @@
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "2ef8553c-439e-462b-b638-ae18ed500009",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": ">",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "2ef8553c-439e-462b-b638-ae18ed500009",
+              "Serial": null,
+              "Pin": null,
+              "Operand": ">",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
           "ConfigRefs": [
             {
               "Active": true,
@@ -2998,10 +1681,7 @@
               "Placeholder": "#",
               "TestValue": "1"
             }
-          ],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          ]
         },
         {
           "Source": {
@@ -3017,9 +1697,9 @@
           },
           "Device": {
             "Name": "EXEC",
-            "DisplayPin": "EXEC",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "EXEC",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -3029,25 +1709,8 @@
           "Name": "EXEC Light (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3063,9 +1726,9 @@
           },
           "Device": {
             "Name": "MSG",
-            "DisplayPin": "MSG",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "MSG",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -3075,25 +1738,8 @@
           "Name": "MSG Light (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -3109,9 +1755,9 @@
           },
           "Device": {
             "Name": "FAIL",
-            "DisplayPin": "FAIL",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "FAIL",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -3121,25 +1767,8 @@
           "Name": "FAIL Light (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3155,9 +1784,9 @@
           },
           "Device": {
             "Name": "OFST",
-            "DisplayPin": "OFST",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "OFST",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -3167,25 +1796,8 @@
           "Name": "OFST Light (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3212,18 +1824,6 @@
           "Name": "LCD Brightness (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3233,10 +1833,8 @@
               }
             ]
           },
-          "ConfigRefs": [],
           "RawValue": "1",
-          "Value": "100",
-          "Status": {}
+          "Value": "100"
         },
         {
           "Source": {
@@ -3263,31 +1861,17 @@
           "Name": "Backlight Brightness (Output)",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
                 "Type": "Transformation",
-                "Expression": "$ * 100",
+                "Expression": "Round($ * 100, 0)",
                 "Active": true
               }
             ]
           },
-          "ConfigRefs": [],
           "RawValue": "0.20000000298023224",
-          "Value": "20.0000002980232",
-          "Status": {}
+          "Value": "20"
         }
       ]
     },
@@ -3316,25 +1900,8 @@
           "Name": "Is Speed Enabled",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "RawValue": "1",
+          "Value": "1"
         },
         {
           "Source": {
@@ -3355,25 +1922,8 @@
           "Name": "Is Battery On",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "Value": "1"
         },
         {
           "Source": {
@@ -3394,25 +1944,8 @@
           "Name": "Is Mach Airspeed",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3433,25 +1966,8 @@
           "Name": "V/S Status",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3472,18 +1988,6 @@
           "Name": "Main Panel Brightness",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3502,8 +2006,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3524,25 +2027,8 @@
           "Name": "Light Test Mode",
           "Type": "OutputConfigItem",
           "ModuleSerial": "-",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3558,9 +2044,9 @@
           },
           "Device": {
             "Name": "Solenoid",
-            "DisplayPin": "Solenoid",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "Solenoid",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -3570,25 +2056,8 @@
           "Name": "A/T Arm Status",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -3615,18 +2084,6 @@
           "Name": "Backlight",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3645,8 +2102,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -3673,18 +2129,6 @@
           "Name": "LCD Brightness",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3709,8 +2153,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "40",
-          "Status": {}
+          "Value": "40"
         },
         {
           "Source": {
@@ -3737,18 +2180,6 @@
           "Name": "LED Brightness",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3767,8 +2198,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "100",
-          "Status": {}
+          "Value": "100"
         },
         {
           "Source": {
@@ -3797,23 +2227,18 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "173",
-          "Value": "173",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -3842,23 +2267,18 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "173",
-          "Value": "173",
-          "Status": {}
+          "RawValue": "219",
+          "Value": "219"
         },
         {
           "Source": {
@@ -3887,23 +2307,18 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "256",
-          "Value": "256",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -3930,18 +2345,6 @@
           "Name": "Speed Shown",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -3960,8 +2363,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "1"
         },
         {
           "Source": {
@@ -3990,14 +2392,14 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "1",
+              "Logic": "and",
+              "Active": true
             }
           ],
           "Modifiers": {
@@ -4009,9 +2411,8 @@
               }
             ]
           },
-          "ConfigRefs": [],
-          "RawValue": "240",
-          "Value": "240",
+          "RawValue": "100",
+          "Value": "100",
           "Status": {
             "Precondition": "not satisfied"
           }
@@ -4043,14 +2444,14 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
           "Modifiers": {
@@ -4062,10 +2463,8 @@
               }
             ]
           },
-          "ConfigRefs": [],
-          "RawValue": "240",
-          "Value": "240",
-          "Status": {}
+          "RawValue": "100",
+          "Value": "100"
         },
         {
           "Source": {
@@ -4094,23 +2493,18 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "35000",
-          "Value": "35000",
-          "Status": {}
+          "RawValue": "100",
+          "Value": "100"
         },
         {
           "Source": {
@@ -4139,23 +2533,18 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4184,33 +2573,28 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             },
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4239,33 +2623,28 @@
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
           "Preconditions": [
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "c0bbc933-215e-411f-92c0-9de27f46c27b",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "c0bbc933-215e-411f-92c0-9de27f46c27b",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             },
             {
-              "PreconditionType": "config",
-              "PreconditionRef": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "0",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
+              "Type": "config",
+              "Ref": "1da43fa7-4464-45a9-8fd2-ff9723bd8632",
+              "Serial": null,
+              "Pin": null,
+              "Operand": "=",
+              "Value": "0",
+              "Logic": "and",
+              "Active": true
             }
           ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4292,18 +2671,6 @@
           "Name": "LCD Test",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -4322,8 +2689,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4339,9 +2705,9 @@
           },
           "Device": {
             "Name": "AT_ARM",
-            "DisplayPin": "AT_ARM",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "AT_ARM",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4351,18 +2717,6 @@
           "Name": "LED A/T",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
           "Modifiers": {
             "Items": [
               {
@@ -4381,8 +2735,7 @@
             }
           ],
           "RawValue": "0",
-          "Value": "1",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4398,9 +2751,9 @@
           },
           "Device": {
             "Name": "N1",
-            "DisplayPin": "N1",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "N1",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4410,25 +2763,8 @@
           "Name": "LED N1",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4444,9 +2780,9 @@
           },
           "Device": {
             "Name": "SPEED",
-            "DisplayPin": "SPEED",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "SPEED",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4456,25 +2792,8 @@
           "Name": "LED SPEED",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4490,9 +2809,9 @@
           },
           "Device": {
             "Name": "VNAV",
-            "DisplayPin": "VNAV",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "VNAV",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4502,25 +2821,8 @@
           "Name": "LED VNAV",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -4536,9 +2838,9 @@
           },
           "Device": {
             "Name": "LVL_CHG",
-            "DisplayPin": "LVL_CHG",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "LVL_CHG",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4548,25 +2850,8 @@
           "Name": "LED LVL CHG",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4582,9 +2867,9 @@
           },
           "Device": {
             "Name": "HDG_SEL",
-            "DisplayPin": "HDG_SEL",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "HDG_SEL",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4594,25 +2879,8 @@
           "Name": "LED HDG SEL",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4628,9 +2896,9 @@
           },
           "Device": {
             "Name": "LNAV",
-            "DisplayPin": "LNAV",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "LNAV",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4640,25 +2908,8 @@
           "Name": "LED LNAV",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "RawValue": "0",
+          "Value": "0"
         },
         {
           "Source": {
@@ -4674,9 +2925,9 @@
           },
           "Device": {
             "Name": "VOR_LOC",
-            "DisplayPin": "VOR_LOC",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "VOR_LOC",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4686,25 +2937,8 @@
           "Name": "LED VOR LOC",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4720,9 +2954,9 @@
           },
           "Device": {
             "Name": "APP",
-            "DisplayPin": "APP",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "APP",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4732,25 +2966,8 @@
           "Name": "LED APP",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4766,9 +2983,9 @@
           },
           "Device": {
             "Name": "ALT_HLD",
-            "DisplayPin": "ALT_HLD",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "ALT_HLD",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4778,25 +2995,8 @@
           "Name": "LED ALT HLD",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4812,9 +3012,9 @@
           },
           "Device": {
             "Name": "VS",
-            "DisplayPin": "VS",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "VS",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4824,25 +3024,8 @@
           "Name": "LED V/S",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4858,9 +3041,9 @@
           },
           "Device": {
             "Name": "A_CMD",
-            "DisplayPin": "A_CMD",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "A_CMD",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4870,25 +3053,8 @@
           "Name": "LED CMD A",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4904,9 +3070,9 @@
           },
           "Device": {
             "Name": "B_CMD",
-            "DisplayPin": "B_CMD",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "B_CMD",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4916,25 +3082,8 @@
           "Name": "LED CMD B",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4950,9 +3099,9 @@
           },
           "Device": {
             "Name": "A_CWS",
-            "DisplayPin": "A_CWS",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "A_CWS",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -4962,25 +3111,8 @@
           "Name": "LED CWS A",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -4996,9 +3128,9 @@
           },
           "Device": {
             "Name": "B_CWS",
-            "DisplayPin": "B_CWS",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "B_CWS",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -5008,25 +3140,8 @@
           "Name": "LED CWS B",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "Source": {
@@ -5042,9 +3157,9 @@
           },
           "Device": {
             "Name": "L_MA",
-            "DisplayPin": "L_MA",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "L_MA",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -5054,25 +3169,8 @@
           "Name": "LED MA Capt",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "1",
-          "Value": "1",
-          "Status": {}
+          "Value": "1"
         },
         {
           "Source": {
@@ -5088,9 +3186,9 @@
           },
           "Device": {
             "Name": "R_MA",
-            "DisplayPin": "R_MA",
-            "DisplayPinBrightness": 255,
-            "DisplayPinPWM": false,
+            "Pin": "R_MA",
+            "Brightness": 255,
+            "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
@@ -5100,25 +3198,8 @@
           "Name": "LED MA FO",
           "Type": "OutputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": "7d066107-06aa-4abc-b7c8-895a87827b30",
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": "1",
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "0",
-          "Value": "0",
-          "Status": {}
+          "Value": "0"
         },
         {
           "button": {
@@ -5142,25 +3223,8 @@
           "Name": "Capt CRS Up",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "RawValue": "PRESS",
+          "Value": " "
         },
         {
           "button": {
@@ -5184,25 +3248,8 @@
           "Name": "Capt CRS Down",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "RawValue": "PRESS",
+          "Value": " "
         },
         {
           "button": {
@@ -5225,26 +3272,7 @@
           "Active": true,
           "Name": "FO CRS Up",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -5267,26 +3295,7 @@
           "Active": true,
           "Name": "FO CRS Down",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -5315,25 +3324,8 @@
           "Name": "Captain F/D",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5362,25 +3354,8 @@
           "Name": "FO F/D",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5404,25 +3379,8 @@
           "Name": "N1 Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5446,25 +3404,8 @@
           "Name": "SPEED Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5488,25 +3429,8 @@
           "Name": "Speed Up",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5530,25 +3454,8 @@
           "Name": "Speed Down",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5572,25 +3479,8 @@
           "Name": "Speed Down",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5614,25 +3504,8 @@
           "Name": "SPD INTV",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5656,25 +3529,8 @@
           "Name": "VNAV",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5698,25 +3554,8 @@
           "Name": "LVL CHG",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5740,25 +3579,8 @@
           "Name": "HDG SEL",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5782,25 +3604,8 @@
           "Name": "LNAV",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5824,25 +3629,8 @@
           "Name": "VOR LOC",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5866,25 +3654,8 @@
           "Name": "APP",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5908,25 +3679,8 @@
           "Name": "ALT HLD",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5950,25 +3704,8 @@
           "Name": "V/S",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -5991,26 +3728,7 @@
           "Active": true,
           "Name": "V/S Up",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -6033,26 +3751,7 @@
           "Active": true,
           "Name": "V/S Down",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -6076,25 +3775,8 @@
           "Name": "CMD A Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6118,25 +3800,8 @@
           "Name": "CMD B Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6160,25 +3825,8 @@
           "Name": "CWS A Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6202,25 +3850,8 @@
           "Name": "CWS B Toggle",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6244,25 +3875,8 @@
           "Name": "Heading Up",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6286,25 +3900,8 @@
           "Name": "Heading Down",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6328,25 +3925,8 @@
           "Name": "ALT INTV",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6370,25 +3950,8 @@
           "Name": "Altitude Up",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6411,26 +3974,7 @@
           "Active": true,
           "Name": "Altitude Down",
           "Type": "InputConfigItem",
-          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "",
-          "Value": "",
-          "Status": {}
+          "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000"
         },
         {
           "button": {
@@ -6454,25 +3998,8 @@
           "Name": "A/T Arm",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "RawValue": "RELEASE",
+          "Value": " "
         },
         {
           "button": {
@@ -6501,25 +4028,8 @@
           "Name": "DISENGAGE",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6543,25 +4053,8 @@
           "Name": "Bank Angle 10",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6585,25 +4078,8 @@
           "Name": "Bank Angle 15",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6627,25 +4103,8 @@
           "Name": "Bank Angle 20",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
           "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "Value": " "
         },
         {
           "button": {
@@ -6669,25 +4128,8 @@
           "Name": "Bank Angle 25",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
-          },
-          "ConfigRefs": [],
-          "RawValue": "RELEASE",
-          "Value": " ",
-          "Status": {}
+          "RawValue": "PRESS",
+          "Value": " "
         },
         {
           "button": {
@@ -6711,27 +4153,963 @@
           "Name": "Bank Angle 30",
           "Type": "InputConfigItem",
           "ModuleSerial": "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
-          "Preconditions": [
-            {
-              "PreconditionType": "none",
-              "PreconditionRef": null,
-              "PreconditionSerial": null,
-              "PreconditionPin": null,
-              "PreconditionOperand": "=",
-              "PreconditionValue": null,
-              "PreconditionLogic": "and",
-              "PreconditionActive": true
-            }
-          ],
-          "Modifiers": {
-            "Items": []
+          "RawValue": "RELEASE",
+          "Value": " "
+        }
+      ]
+    },
+    {
+      "Label": "WINWING PDC-3N",
+      "FileName": null,
+      "ReferenceOnly": false,
+      "EmbedContent": true,
+      "ConfigItems": [
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS_control/capt/map_mode_pos",
+              "Expression": "0"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
           },
-          "ConfigRefs": [],
-          "RawValue": "PRESS",
-          "Value": " ",
-          "Status": {}
+          "DeviceType": "Button",
+          "DeviceName": "Button 28",
+          "GUID": "2b816b7c-cf91-4292-8172-d147b2609074",
+          "Active": true,
+          "Name": "EFIS Mode - APP",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS_control/capt/map_mode_pos",
+              "Expression": "1"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 29",
+          "GUID": "2d645b28-06bd-45d8-9a3f-e3109f4d6333",
+          "Active": true,
+          "Name": "EFIS Mode - VOR",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS_control/capt/map_mode_pos",
+              "Expression": "2"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 30",
+          "GUID": "4114aa5a-df5c-4540-8f5f-33095573cc22",
+          "Active": true,
+          "Name": "EFIS Mode - MAP",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS_control/capt/map_mode_pos",
+              "Expression": "3"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 31",
+          "GUID": "35b5af9e-6f1c-480e-a875-13c5caf4405a",
+          "Active": true,
+          "Name": "EFIS Mode - PLN",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "0"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 32",
+          "GUID": "08519144-76f8-4b45-af2d-0e399c15d129",
+          "Active": true,
+          "Name": "EFIS Map - Range 5",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "1"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 33",
+          "GUID": "cc9fb35d-2bf9-4126-a7f3-a9ef68b946d6",
+          "Active": true,
+          "Name": "EFIS Map - Range 10",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "2"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 34",
+          "GUID": "23a141c7-cf47-410d-9274-729d8316bc92",
+          "Active": true,
+          "Name": "EFIS Map - Range 20",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "3"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 35",
+          "GUID": "9dcf3fcd-15e9-4ff3-a779-992304dba949",
+          "Active": true,
+          "Name": "EFIS Map - Range 40",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "4"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 36",
+          "GUID": "18deca7a-4bc1-4dce-b4a0-0e36695902ec",
+          "Active": true,
+          "Name": "EFIS Map - Range 80",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "5"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 37",
+          "GUID": "2f74455a-03cf-4a4f-b466-792dfc521d19",
+          "Active": true,
+          "Name": "EFIS Map - Range 160",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "6"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 38",
+          "GUID": "c4a8c346-7cb6-44ee-8f5b-d51610c08f06",
+          "Active": true,
+          "Name": "EFIS Map - Range 320",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "DataRef",
+              "Path": "laminar/B738/EFIS/capt/map_range",
+              "Expression": "7"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 39",
+          "GUID": "1adef51d-f062-42db-bde7-393257389f08",
+          "Active": true,
+          "Name": "EFIS Map - Range 640",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/cpt/minimums_dn",
+              "Expression": "1"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 25",
+          "GUID": "8752603c-bd89-443e-b8d5-e6514c21a61f",
+          "Active": true,
+          "Name": "EFIS MINS Baro",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/cpt/minimums_up",
+              "Expression": "0"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 24",
+          "GUID": "0d9f2c66-2166-4542-9c64-b6d63628ee92",
+          "Active": true,
+          "Name": "EFIS MINS Radio",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/baro_in_hpa_dn",
+              "Expression": "0"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 26",
+          "GUID": "bd0ca733-0634-465f-b475-b1aac1ad5cca",
+          "Active": true,
+          "Name": "Baro inHg",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/baro_in_hpa_up",
+              "Expression": "1"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 27",
+          "GUID": "cd58868d-573a-4dc5-9d8f-8a78a28eaef4",
+          "Active": true,
+          "Name": "Baro hPa",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_dn",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_dn",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 500,
+            "RepeatDelay": 100
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 40",
+          "GUID": "fb0c2dd5-60cd-4db4-87e6-2a9a18780812",
+          "Active": true,
+          "Name": "DH Decrease (Slow)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_dn",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_dn",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 150,
+            "RepeatDelay": 5
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 20",
+          "GUID": "f221cb9f-d1dd-4fd3-903b-205863f7a437",
+          "Active": true,
+          "Name": "DH Decrease (Fast)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_up",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_up",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 500,
+            "RepeatDelay": 100
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 42",
+          "GUID": "42c325a5-6d5f-4e53-819e-b6ea31a53408",
+          "Active": true,
+          "Name": "DH Increase (Slow)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_uo",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pfd/dh_pilot_up",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 150,
+            "RepeatDelay": 5
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 21",
+          "GUID": "26664387-de5e-4538-b4e1-c52512e6ae55",
+          "Active": true,
+          "Name": "DH Increase (Fast)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_down",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_down",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 500,
+            "RepeatDelay": 100
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 43",
+          "GUID": "90b06515-19eb-4ece-b9bc-998fe486e4e4",
+          "Active": true,
+          "Name": "Baro Decrease (Slow)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_down",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_down",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 150,
+            "RepeatDelay": 5
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 22",
+          "GUID": "5beb9c15-84b2-4b2b-9452-878f1e1e002e",
+          "Active": true,
+          "Name": "Baro Decrease (Fast)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_up",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_up",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 500,
+            "RepeatDelay": 100
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 45",
+          "GUID": "057c44a9-0a39-4bb2-848c-37bfeab236c3",
+          "Active": true,
+          "Name": "Baro Increase (Slow)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_up",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/pilot/barometer_up",
+              "Expression": ""
+            },
+            "LongReleaseDelay": 350,
+            "HoldDelay": 150,
+            "RepeatDelay": 5
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 23",
+          "GUID": "972ede57-389a-452d-b02e-12daadce20be",
+          "Active": true,
+          "Name": "Baro Increase (Fast)",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/rst_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 16",
+          "GUID": "7b479fc1-7936-48d1-be5a-ea999d2a6985",
+          "Active": true,
+          "Name": "Mins Reset",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": []
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/std_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 19",
+          "GUID": "54cccff1-a9f2-4fa5-8454-8bb37479510b",
+          "Active": true,
+          "Name": "Baro Std",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": []
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/ctr_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 17",
+          "GUID": "8363fe9d-54a3-4bef-a0b0-7b23b5ba8379",
+          "Active": true,
+          "Name": "CTR",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/tfc_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 18",
+          "GUID": "b4f7c77b-715e-4b63-a049-cee0d549854b",
+          "Active": true,
+          "Name": "TFC",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/wxr_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 3",
+          "GUID": "f7415768-ec64-4cb5-93fd-98adf04bcdc6",
+          "Active": true,
+          "Name": "WXR",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/sta_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 4",
+          "GUID": "7eeeca59-f323-4adb-8315-42d11b408746",
+          "Active": true,
+          "Name": "STA",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/wpt_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 5",
+          "GUID": "8d8524b4-8a7c-4af4-b8c7-3abb916bafcb",
+          "Active": true,
+          "Name": "WPT",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/arpt_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 6",
+          "GUID": "6ec71243-2890-4d7e-8b8b-e9f267e5a545",
+          "Active": true,
+          "Name": "ARPT",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/data_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 7",
+          "GUID": "6f63fd82-fd92-442f-8e0b-b45ec1fcd4ca",
+          "Active": true,
+          "Name": "DATA",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/pos_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 8",
+          "GUID": "082cdc20-ac69-40b8-ac7f-fb53af4b150e",
+          "Active": true,
+          "Name": "POS",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/terr_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 9",
+          "GUID": "3c8d1626-9ece-4836-a632-3d56e479566f",
+          "Active": true,
+          "Name": "TERR",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/fpv_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 1",
+          "GUID": "120b828a-b60d-4745-a3f6-49b03e9f3b41",
+          "Active": true,
+          "Name": "FPV",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "XplaneInputAction",
+              "InputType": "Command",
+              "Path": "laminar/B738/EFIS_control/capt/push_button/mtrs_press",
+              "Expression": ""
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "DeviceType": "Button",
+          "DeviceName": "Button 2",
+          "GUID": "9c8278c0-ce98-4c1a-b43f-e343a0db0294",
+          "Active": true,
+          "Name": "MTRS",
+          "Type": "InputConfigItem",
+          "ModuleSerial": "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000",
+          "Preconditions": [],
+          "RawValue": "RELEASE",
+          "Value": " "
         }
       ]
     }
-  ]
+  ],
+  "Sim": "xplane",
+  "UseFsuipc": false,
+  "Aircraft": [],
+  "Controllers": [
+    "WINWING PFP-3N-CAPTAIN / JS-e66352a0-4775-11f0-8001-444553540000",
+    "-",
+    "WINWING PAP-3 / JS-6760c0c0-8e4f-11f0-8001-444553540000",
+    "WINWING PDC-3N-L / JS-bf2ae630-dd2a-11f0-8001-444553540000"
+  ],
+  "_version": "0.9"
 }
